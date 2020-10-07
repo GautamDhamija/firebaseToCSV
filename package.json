@@ -1,0 +1,17 @@
+{
+  "name": "firebasetojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.2",
+    "firebase": "^7.22.1",
+    "json-2-csv": "^3.7.8",
+    "nodemon": "^2.0.4"
+  }
+}
